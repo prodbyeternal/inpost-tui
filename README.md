@@ -43,7 +43,7 @@ Działa na wielu platformach (Linux/macOS/Windows)
 
 3. Uruchom aplikację poleceniem:
   ```bash
-  python inpost_tui.py
+  python inpost-tui.py
   ```
 
 ---
