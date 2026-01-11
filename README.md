@@ -30,7 +30,7 @@ Działa na wielu platformach (Linux/macOS/Windows)
 1. Sklonuj repozytorium:
 
    ```bash
-   git clone https://github.com/twoj-login/inpost-tui.git
+   git clone https://github.com/prodbyeternal/inpost-tui.git
    cd inpost-tui
    python3 inpost-tui.py
    ```
